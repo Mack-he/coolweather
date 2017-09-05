@@ -1,4 +1,4 @@
-package com.dlmu.liu.coolweather.coolweather;
+package com.dlmu.liu.coolweather.coolweather.activity;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -6,6 +6,7 @@ import android.preference.PreferenceManager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.dlmu.liu.coolweather.coolweather.R;
 import com.dlmu.liu.coolweather.coolweather.activity.WeatherActivity;
 
 public class MainActivity extends AppCompatActivity {

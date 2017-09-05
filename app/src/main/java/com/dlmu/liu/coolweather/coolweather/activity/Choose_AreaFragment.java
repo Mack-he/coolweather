@@ -15,7 +15,6 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.dlmu.liu.coolweather.coolweather.MainActivity;
 import com.dlmu.liu.coolweather.coolweather.R;
 import com.dlmu.liu.coolweather.coolweather.db.City;
 import com.dlmu.liu.coolweather.coolweather.db.County;
